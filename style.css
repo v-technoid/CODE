@@ -1,0 +1,11 @@
+/* This is How we write a comment in CSS Code */
+/* Whenever we write a separate CSS FIle it means that we are gonna do a External Style to the HTML Page */
+/* Font Finder extension in Google Chrome */
+h1{
+    font-family: 'Pacifico', cursive;
+    color: blue;
+    background: orange;
+}
+p{
+    font-style:italic;
+}
